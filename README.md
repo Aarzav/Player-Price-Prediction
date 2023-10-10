@@ -46,5 +46,3 @@ Before our models took the stage, we ensured that key assumptions like linearity
 As our epic journey culminates, we stand before you with an ensemble of prediction wizards, each with its unique charm and capability. The world of football player price prediction continues to evolve, and our quest for mastery endures.
 
 May your own exploration be a symphony of discoveries and triumphs as you navigate the intricate terrain of football player valuation! ⚽💰
-
-Delve into the notebooks/ directory to witness the secrets of our magical modeling journey.
